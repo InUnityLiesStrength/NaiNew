@@ -31,7 +31,7 @@ class Program
             maxCounter = Math.Max(maxCounter, counter);
 
         }
-
+//ADD TEXT for GitHub
         for (int i = 0; i < maxCounter; i++)
         {
             Console.Write(winNumber + " ");
